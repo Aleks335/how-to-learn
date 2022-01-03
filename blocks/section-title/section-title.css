@@ -1,0 +1,11 @@
+@import url(./_theme/section-title_theme-dark.css);
+
+.section-title {
+  width: 60%;
+  font-family: 'inter';
+  line-height: 1.15;
+  font-size: 60px;
+  font-weight: 700;
+  text-align: center;
+  margin: 0 0 20px;
+}
