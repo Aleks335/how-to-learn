@@ -2,7 +2,6 @@
 @import url(./_place/logo_place-header.css);
 
 .logo {
-  background-image: url('../../images/logo/logo.svg');
   background-size: contain;
   background-repeat: no-repeat;
 }

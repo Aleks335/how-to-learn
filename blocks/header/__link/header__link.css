@@ -4,7 +4,7 @@
   font-weight: 400;
   text-decoration: none;
   color: #277df1;
-  transition: opacity 1s linear;
+  transition: opacity .4s linear;
 }
 
 .header__link:hover{
